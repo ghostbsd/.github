@@ -10,7 +10,7 @@ Yes, we are developing GhostBSD on GitHub.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
+### Need help?
 The best ways to get help are on:
 * [Telegram](https://t.me/ghostbsd)
 * [Element](https://app.element.io/#/room/#ghostbsd:libera.chat)
@@ -19,6 +19,9 @@ The best ways to get help are on:
 
 **Note:** IRC is bridged with Element which is also bridged with Telegram, so users from any of these platform can chat together.
 
+### Need report a issue or request a new feature?
 :bug: Report bug [here](https://github.com/ghostbsd/ghostbsd-src/issues/new?assignees=&labels=bug&template=bug_report.yaml&title=%5BBug%5D%3A+)
 
 :sparkles: Request new feature at [here](https://github.com/ghostbsd/ghostbsd-src/issues/new?assignees=&labels=feature&template=feature_request.yaml&title=%5BFeature%5D%3A+)
+
+Before reporting an issue, or requesting a feature make sure your issue or feature does not exist in [Development Manager](https://github.com/orgs/ghostbsd/projects/4/views/1)
