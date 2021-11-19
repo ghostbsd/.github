@@ -17,7 +17,7 @@ The best ways to get help are on:
 * [irc.libera.chat:6697 #ghostbsd](https://web.libera.chat/#ghostbsd)
 * [The GhostBSD Forums](https://forums.ghostbsd.org)
 
-**Note:** IRC is bridged with Element which is also bridged with Telegram, so user from any of the platform can chat together.
+**Note:** IRC is bridged with Element which is also bridged with Telegram, so users from any of these platform can chat together.
 
 :bug: Report bug [here](https://github.com/ghostbsd/ghostbsd-src/issues/new?assignees=&labels=bug&template=bug_report.yaml&title=%5BBug%5D%3A+)
 
