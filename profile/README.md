@@ -19,7 +19,7 @@ The best ways to get help are on:
 
 **Note:** IRC is bridged with Element which is also bridged with Telegram, so users from any of these platform can chat together.
 
-### Need report a issue or request a new feature?
+### Need to report a issue or request a new feature?
 :bug: Report bug [here](https://github.com/ghostbsd/ghostbsd-src/issues/new?assignees=&labels=bug&template=bug_report.yaml&title=%5BBug%5D%3A+)
 
 :sparkles: Request new feature at [here](https://github.com/ghostbsd/ghostbsd-src/issues/new?assignees=&labels=feature&template=feature_request.yaml&title=%5BFeature%5D%3A+)
