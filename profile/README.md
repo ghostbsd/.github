@@ -13,8 +13,6 @@ Yes, we are developing GhostBSD on GitHub.
 ### Need help?
 The best ways to get help are on:
 * [Telegram](https://t.me/ghostbsd)
-* [Element](https://app.element.io/#/room/#ghostbsd:libera.chat)
-* [irc.libera.chat:6697 #ghostbsd](https://web.libera.chat/#ghostbsd)
 * [The GhostBSD Forums](https://forums.ghostbsd.org)
 
 **Note:** IRC is bridged with Element which is also bridged with Telegram, so users from any of these platform can chat together.
