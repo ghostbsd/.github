@@ -15,8 +15,6 @@ The best ways to get help are on:
 * [Telegram](https://t.me/ghostbsd)
 * [The GhostBSD Forums](https://forums.ghostbsd.org)
 
-**Note:** IRC is bridged with Element which is also bridged with Telegram, so users from any of these platform can chat together.
-
 ### Need to report a issue or request a new feature?
 :bug: Report a bug [here](https://github.com/ghostbsd/issues/issues/new?assignees=&labels=bug&template=bug_report.yaml)
 
