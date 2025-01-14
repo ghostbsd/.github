@@ -15,9 +15,9 @@ The best ways to get help are on:
 * [Telegram](https://t.me/ghostbsd)
 * [The GhostBSD Forums](https://forums.ghostbsd.org)
 
-### Need to report a issue or request a new feature?
+### Need to report an issue or request a new feature?
 :bug: Report a bug [here](https://github.com/ghostbsd/issues/issues/new?assignees=&labels=bug&template=bug_report.yaml)
 
 :sparkles: Request a new feature [here](https://github.com/ghostbsd/issues/issues/new?assignees=&labels=feature&template=feature_request.yaml)
 
-Before reporting an issue, or requesting a feature make sure your issue or feature does not exist in [Development Manager](https://github.com/orgs/ghostbsd/projects/4/views/1)
+Before you report an issue or request a feature, please make sure your issue or feature does not exist in our Development Manager [Known issues](https://github.com/orgs/ghostbsd/projects/4/views/21).
