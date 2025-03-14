@@ -1,4 +1,4 @@
-# Welcome to GhostBSD! 👻
+# Welcome to GhostBSD!
 
 GhostBSD is a user-friendly, open-source operating system based on FreeBSD. It is designed to provide a secure and efficient desktop experience for everyone.
 
