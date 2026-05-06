@@ -11,7 +11,7 @@ The best ways to get help are:
 - 📋 Visit [The GhostBSD Forums](https://forums.ghostbsd.org) for in-depth discussions and solutions.
 
 ## Reporting Issues or Requesting Features 🐛✨
-We welcome your feedback to help improve GhostBSD! Before submitting, please check our [Known Issues](https://github.com/orgs/ghostbsd/projects/4/views/21) to avoid duplicates.
+We welcome your feedback to help improve GhostBSD! Before submitting, please check our [Known Issues](https://github.com/orgs/ghostbsd/projects/4/views/26) to avoid duplicates.
 
 - 🐛 **Report a Bug**: Submit a bug report [here](https://github.com/ghostbsd/issues/issues/new?assignees=&labels=bug&template=bug_report.yaml).
 - ✨ **Request a Feature**: Suggest a new feature [here](https://github.com/ghostbsd/issues/issues/new?assignees=&labels=feature&template=feature_request.yaml).
