@@ -24,7 +24,7 @@ Curious about what's next for GhostBSD? Check out our [Roadmap](https://github.c
 
 ## Get Involved 🤝
 Want to contribute to GhostBSD? We're always looking for passionate individuals to help shape the future of our project! Here's how you can get involved:
-- **Contribute Code or Documentation**: Check out our [Contribution Guidelines]() to learn how to contribute, whether through code, documentation, or community support.
+- **Contribute Code or Documentation**: Check out our [Contribution Documentation](https://ghostbsd-documentation-portal.readthedocs.io/en/latest/contributor/index.html) to learn how to contribute, whether through code, documentation, or community support.
 - **Join the Development Discussion**: Connect with our development team and other contributors on our [GhostBSD Development Telegram group](https://t.me/ghostbsd_dev) or on our [GitHub Discussions](https://github.com/orgs/ghostbsd/discussions) to discuss ideas, share progress, and collaborate on exciting projects.
 
 ---
